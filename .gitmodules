@@ -1,0 +1,6 @@
+[submodule "Looksy_Frontend"]
+	path = Looksy_Frontend
+	url = https://github.com/bharat407/Looksy_Frontend
+[submodule "Looksy_Backend"]
+	path = Looksy_Backend
+	url = https://github.com/bharat407/Looksy_Backend
